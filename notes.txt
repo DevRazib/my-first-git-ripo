@@ -1,0 +1,16 @@
+this module is all about git and git hub
+the type of version control 
+a) Local version control system
+b) Centralized version  control system 
+c) Distributed version control system (modern and we use it )
+most used command for first repository 
+1. git init 
+2. git add .
+3. git commit -m 'your commit is here ' 
+4. git remote add origin https://... (from your new repository)
+5. git push -u origin master or git push -s origin main 
+============if you change anything and add new then below is you new code ===========
+three steps of keep updating changes
+1. git add .
+2. git commit -m 'ja change korsen ta leka'
+3. git push
